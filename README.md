@@ -1,17 +1,22 @@
-# Hey 👋 Nice to meet you!
+# Hey 👋 Nice to meet you!  
+I'm Felipe Pinheiro, a Data Analyst from Rio de Janeiro, Brazil, passionate about transforming data into actionable insights. Currently, I'm honing my skills in Business Intelligence, SQL, and Python to drive impactful business decisions.
 
-I'm Felipe Pinheiro, a curious Data Analyst from Rio de Janeiro, Brazil. I'm currently developing my skills in Business Intelligence, SQL and Python. 
+# About Me:
+- 🌱 I’m currently enhancing my skills in Python on DataCamp: [My DataCamp Portfolio](https://www.datacamp.com/portfolio/felipervmospinheiro)
+- 📊 I have hands-on experience with data visualization using Matplotlib and Seaborn
+- 🚀 I’m passionate about leveraging data to drive business decisions and create impactful solutions
+- 🎯 Open to collaborating on data analytics projects and networking with fellow data enthusiasts!
 
-# About me
-- 🌱 I’m currently learning Python in DataCamp: https://www.datacamp.com/portfolio/felipervmospinheiro
-- 📫 How to reach me: felipervmospinheiro@gmail.com
+# Techs and Tools:  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)  [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://matplotlib.org)  [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://seaborn.pydata.org)  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com)  [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
-# Techs and Tools
-![image](https://github.com/user-attachments/assets/50741c09-0911-4a68-aaaa-a030bb7ac925)  ![image](https://github.com/user-attachments/assets/b83f165f-29bd-4e8f-90aa-cec577448de6)
- ![image](https://github.com/user-attachments/assets/cd035c63-0084-45bd-9391-4208f7992475) ![image](https://github.com/user-attachments/assets/e2d2fd0a-ebb4-4621-bf1c-e1c874eae0b7) ![image](https://github.com/user-attachments/assets/b1209fdb-9cec-4f35-8a59-5be094bf3a8e) 
+# Projects:  
+- 🌎 [Air Quality in São Paulo](https://github.com/feliperamospinheiro/air-quality-in-sao-paulo): Analyzing air quality data in São Paulo using Python and data visualization techniques.  
 
-# Contact
-![image](https://github.com/user-attachments/assets/fc3ab019-050c-4af3-ac1a-c00193e6fca3) ![image](https://github.com/user-attachments/assets/8214c6cb-3c8b-4cc4-b8f9-94406ed528c7)
+# Contact me:  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipervmospinheiro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperamospinheiro)
+
 
 
 
