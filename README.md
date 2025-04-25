@@ -12,7 +12,7 @@ I'm Felipe Pinheiro, a Data Analyst from Rio de Janeiro, Brazil, passionate abou
 
 # Projects:  
 - 🌎 [Air Quality in São Paulo](https://github.com/feliperamospinheiro/air-quality-in-sao-paulo): Analyzing air quality data in São Paulo using Python and data visualization techniques.
-- 🛰️ [100cep Company Dasboard](https://lookerstudio.google.com/reporting/7efc8a7d-833e-4aaa-abb5-72adf54b0f83/page/BQ1GF/edit): Interactive Looker Studio dashboard focused on marketing and business analysis KPIs for 100cep Company.
+- 🛰️ [100cep Company Dashboard](https://lookerstudio.google.com/reporting/7efc8a7d-833e-4aaa-abb5-72adf54b0f83/page/BQ1GF/edit): Interactive Looker Studio dashboard focused on marketing and business analysis KPIs for 100cep Company.
 
 # Contact me:  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipervmospinheiro@gmail.com)
