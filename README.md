@@ -3,7 +3,7 @@ I'm Felipe Pinheiro, a Data Analyst from Rio de Janeiro, Brazil, passionate abou
 
 # About Me:
 - 🤓 Graduated in Business Administration at Federal University of Rio de Janeiro (UFRJ).
-- 🌱 I’m currently enhancing my skills in Python on DataCamp: [My DataCamp Portfolio](https://www.datacamp.com/portfolio/felipervmospinheiro)
+- 🌱 I’m currently enhancing my skills in OpenAI API on DataCamp: [My DataCamp Portfolio](https://www.datacamp.com/portfolio/felipervmospinheiro)
 - 📊 I have hands-on experience with data visualization using Powe BI, Tableau, Looker, Matplotlib and Seaborn.
 - 🚀 I’m passionate about leveraging data to drive business decisions and create impactful solutions.
 - 🎯 Open to collaborating on data analytics projects and networking with fellow data enthusiasts!.
