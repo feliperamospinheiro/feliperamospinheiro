@@ -14,10 +14,9 @@ Skilled in Business Intelligence, SQL, and Python to drive impactful business de
 
 # Projects:  
 - 🔨 [Catch-The-Diglett](https://github.com/Catch-The-Diglett/Catch-The-Diglett.io): A fun Pokémon-themed "whac-a-mole" game where you test your reflexes by clicking on the appearing Digletts.
-- 🌎 [Air Quality in São Paulo](https://github.com/feliperamospinheiro/air-quality-analysis): Exploratory analysis and visualization of hourly NO₂ levels across São Paulo regions, with median imputation by station and IQR-based outlier removal using Python, Pandas, and Seaborn. Focused on daily patterns to inform mobility and environmental policies.
 - 🛰️ [100cep Milhas](https://lookerstudio.google.com/reporting/52782c41-a4df-4145-af36-a9b2ff1a8d87/page/8GHLF/edit): Executive dashboard consolidating company overview, performance, customer base, and pending items for a mileage operation, structured for rapid decision‑making.
 - 🏥 [100cep Saúde](https://lookerstudio.google.com/u/0/reporting/ddaaa5ac-5f99-42b8-8c4c-ced811add646/page/cAbaF): Health analytics dashboard with managerial view, performance tracking, customer portfolio, and pending actions, prioritizing clarity and section‑based navigation.
-
+- 🌎 [Air Quality in São Paulo](https://github.com/feliperamospinheiro/air-quality-analysis): Exploratory analysis and visualization of hourly NO₂ levels across São Paulo regions, with median imputation by station and IQR-based outlier removal using Python, Pandas, and Seaborn. Focused on daily patterns to inform mobility and environmental policies.
 
 # Contact me:  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipervmospinheiro@gmail.com)
