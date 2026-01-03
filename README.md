@@ -4,6 +4,7 @@ Skilled in Business Intelligence, SQL, and Python to drive impactful business de
 
 # About Me:
 - 🤓 Graduated in Business Administration at Federal University of Rio de Janeiro (UFRJ).
+- 📘 Currently pursuing a postgraduate program in Data Science & Analytics at PUC-Rio.
 - 📊 I have hands-on experience with data visualization using Power BI, Tableau, Looker, Matplotlib and Seaborn.
 - 🚀 I’m passionate about leveraging data to drive business decisions and create impactful solutions.
 - 🎯 Open to collaborating on data analytics projects and networking with fellow data enthusiasts!
