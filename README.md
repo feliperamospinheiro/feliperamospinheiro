@@ -1,5 +1,5 @@
 # Hey 👋 Nice to meet you!  
-I'm Felipe Pinheiro, a Data Analyst from Rio de Janeiro, Brazil, passionate about transforming data into actionable insights. 
+I'm Felipe Pinheiro, a Data Analytics Engineer from Rio de Janeiro, Brazil, passionate about transforming data into actionable insights. 
 Skilled in Business Intelligence, SQL, and Python to drive impactful business decisions.
 
 # About Me:
